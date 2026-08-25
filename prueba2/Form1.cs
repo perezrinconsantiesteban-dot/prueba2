@@ -53,5 +53,10 @@ namespace prueba2
                 MessageBox.Show("¡Sabía que dirías que sí!", "Confirmación", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
